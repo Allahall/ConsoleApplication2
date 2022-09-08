@@ -8,7 +8,7 @@ int main()
     int k = 0;
     for (int i = 0; i < 100000; i++) {
         k += 10;
-        Beep(k, 100); Sleep(5);ygyu
+        Beep(k, 100); Sleep(5);
     }
 
 
